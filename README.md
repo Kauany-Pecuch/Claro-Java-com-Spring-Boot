@@ -63,4 +63,14 @@ Este desafio envolve a modelagem e diagramação da representação UML do compo
 Acesse [aqui](https://github.com/Kauany-Pecuch/Claro-Java-com-Spring-Boot/tree/main/Modelando-iPhone)!
 
 ---
+<h1 align="center"> Quarto Desafio </h1>
 
+Este projeto é uma simulação de um sistema bancário em Java, onde você pode gerenciar contas correntes e contas poupança, realizar operações como depósitos, saques, transferências e aplicar juros. O sistema permite criar clientes e associar contas a esses clientes.
+
+### Estrutura do Projeto
+O projeto é estruturado em pacotes para organizar as classes relacionadas:
+
+- model: Contém as classes do modelo de dados, incluindo Cliente, Conta, ContaCorrente, e ContaPoupanca.
+- main: Contém a classe Main que é a entrada principal do programa e onde as instâncias de contas e clientes são criadas e testadas.
+
+Acesse [aqui](https://github.com/Kauany-Pecuch/Claro-Java-com-Spring-Boot/tree/main/BancoDigital/src)!
