@@ -74,3 +74,36 @@ O projeto é estruturado em pacotes para organizar as classes relacionadas:
 - main: Contém a classe Main que é a entrada principal do programa e onde as instâncias de contas e clientes são criadas e testadas.
 
 Acesse [aqui](https://github.com/Kauany-Pecuch/Claro-Java-com-Spring-Boot/tree/main/BancoDigital/src)!
+
+<h1 align="center"> Quinto Desafio </h1>
+
+Este projeto Java modela um sistema de bootcamp para gerenciamento de cursos e mentoria, com classes representando diferentes aspectos de um bootcamp, incluindo  conteúdos e alunos.
+
+### Estrutura do Projeto
+O projeto é estruturado em pacotes para organizar as classes relacionadas:
+
+- Bootcamp: Representa o bootcamp com seus *Cursos* e *Mentorias*. 
+- Conteudo: Classe abstrata que serve como base para outros tipos de conteúdo como *Curso* e *Mentoria*. 
+- Curso: Extende *Conteudo* e representa um curso específico dentro do bootcamp
+- Mentoria: Extende *Conteudo* e representa as sessões de mentoria oferecidas no bootcamp. 
+- Aluno: Representa um aluno no bootcamp e gerencia suas inscrições e progresso. 
+
+Acesse [aqui](https://github.com/Kauany-Pecuch/Claro-Java-com-Spring-Boot/tree/main/Bootcamp/src)!
+
+<h1 align="center"> Desafio Extra</h1>
+
+Este projeto é uma simulação de um sistema bancário em Java, onde você pode gerenciar contas correntes e contas poupança, realizar operações como depósitos, saques, transferências e aplicar juros. O sistema permite criar clientes e associar contas a esses clientes.
+
+### Estrutura do Projeto
+Este projeto Java simula um processo de seleção de candidatos para uma vaga. O sistema realiza a seleção com base em valores pretendidos e tenta entrar em contato com os candidatos selecionados.
+
+Funcionalidade
+O sistema realiza as seguintes operações:
+
+- Impressão da Lista de Candidatos: Exibe todos os candidatos disponíveis com seus índices na lista.
+
+- Seleção de Candidatos: Seleciona candidatos com base no valor pretendido e o salário base definido.
+
+- Contato com Candidatos: Tenta entrar em contato com os candidatos selecionados, fazendo até três tentativas para cada um.
+
+Acesse [aqui](https://github.com/Kauany-Pecuch/Claro-Java-com-Spring-Boot/tree/main/Processo-Seletivo)!
